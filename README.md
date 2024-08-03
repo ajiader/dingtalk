@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-    <a href="https://travis-ci.org/mingyoung/dingtalk"><img src="https://travis-ci.org/mingyoung/dingtalk.svg" alt="Build Status"></a>
-    <a href="https://scrutinizer-ci.com/g/mingyoung/dingtalk/?branch=master"><img src="https://scrutinizer-ci.com/g/mingyoung/dingtalk/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality"></a>
-    <a href="https://packagist.org/packages/mingyoung/dingtalk"><img src="https://poser.pugx.org/mingyoung/dingtalk/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/mingyoung/dingtalk"><img src="https://poser.pugx.org/mingyoung/dingtalk/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/mingyoung/dingtalk"><img src="https://poser.pugx.org/mingyoung/dingtalk/license.svg" alt="License"></a>
+    <a href="https://travis-ci.org/ajiader/dingtalk"><img src="https://travis-ci.org/ajiader/dingtalk.svg" alt="Build Status"></a>
+    <a href="https://scrutinizer-ci.com/g/ajiader/dingtalk/?branch=master"><img src="https://scrutinizer-ci.com/g/ajiader/dingtalk/badges/quality-score.png?b=master" alt="Scrutinizer Code Quality"></a>
+    <a href="https://packagist.org/packages/ajiader/dingtalk"><img src="https://poser.pugx.org/ajiader/dingtalk/v/stable.svg" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/ajiader/dingtalk"><img src="https://poser.pugx.org/ajiader/dingtalk/d/total.svg" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/ajiader/dingtalk"><img src="https://poser.pugx.org/ajiader/dingtalk/license.svg" alt="License"></a>
 </p>
 
 ## 介绍
@@ -22,7 +22,7 @@ EasyDingTalk 封装了钉钉身份验证、通讯录管理、消息通知、审�
 ## 安装
 
 ```bash
-composer require mingyoung/dingtalk:^2.0
+composer require ajiader/dingtalk:^2.0
 ```
 
 ## 使用
